@@ -5,6 +5,14 @@
 Added
 -----
 
+- Added tox, code coverage and github actions
+
+2022-09-05
+==========
+
+Added
+-----
+
 - Added test for `missing_vals`.
 
 2022-09-05
