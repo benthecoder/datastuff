@@ -20,6 +20,8 @@ pip install datastuff
 
 Refer to the [CHANGELOG.rst](CHANGELOG.rst) file.
 
+Tutorial I followed to build this package: <https://mathspp.com/blog/how-to-create-a-python-package-in-2022>
+
 <!-- Badges: -->
 
 [pypi-image]: https://img.shields.io/pypi/v/datastuff
