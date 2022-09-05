@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "datastuff"
-version = "0.1.0"
+version = "0.1.3"
 description = "A package that provides functions for a collection of common data science tasks"
 authors = ["benthecoder <benthecoder07@gmail.com>"]
 readme = "README.md"
